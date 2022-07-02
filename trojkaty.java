@@ -24,7 +24,7 @@ class Trojkaty {
         System.out.println("Program do rozpoznawania rodzaju trójkąta");
         System.out.println("Uruchom program z argumentami liczbowymi - długość boków trójkąta");
     }
-    /** Glowna funkcja */
+    /** Glowna funkcja ..... */
     public static void main(String... args) {
         if (args.length != 3) {
             pomoc();
